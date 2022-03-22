@@ -1,0 +1,29 @@
+.loginnote{
+    color: #aaa;
+    font-size: 14px;
+    font-weight: 500;
+}
+.mobiletext{
+    padding: 10px;
+    background: #ebe6e6;
+    border: 1px;
+    border-radius: 13px;
+    padding-left: 24px;
+}
+.otpbtn{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    margin-top: 90px;
+    margin-left: 4px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+}
+.mdlwidth{
+    width: 370px !important;
+    /* text-align: center; */
+}
+.btn-close{
+    margin-top: -47px !important;
+}

@@ -1,0 +1,61 @@
+.contact-main{
+    margin-top: 80px;
+    margin-bottom: 110px;
+}
+.callicon .span2{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 3px;
+}
+.callicon .span1{
+    color: red;   
+}
+.contactus{
+    /* background: #e5e2e2;
+    border: 2px inset #cab3b3;
+    margin-bottom: 20px;  
+    border-radius: 10px; */
+    background: #eee5e5;
+    border: 2px inset #cab3b3;
+    /* margin-bottom: 20px; */
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.contactrow{
+    padding-top: 15px !important;
+    padding-left: 20px !important;
+    padding-bottom: 15px !important;  
+    padding-right: 20px !important;
+}
+.callicon .div1{
+    padding-left: 16px;
+    padding-top: 0px;
+    font-size: 45px;
+    color: #544e4e;
+    margin-bottom: -8px;
+    margin-top: -8px;
+}
+.callicon .span3{
+    color: #bb2525;
+    padding-left: 19px;
+}
+.email{
+    margin-top: 35px;
+}
+.emailicon .span1{
+    color: red;
+}
+.emailicon .span2{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 3px;
+}
+.emailicon .div1{
+    padding-left: 21px;
+    padding-top: -33px;
+    font-size: 20px;
+    color: #544e4e;
+    margin-top: -7px;
+    /* margin-bottom: -8px; */
+}

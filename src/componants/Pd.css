@@ -1,0 +1,66 @@
+td{
+    border: 1px rgb(221, 198, 198) solid !important;
+    padding: 30px;
+    padding-top: 3px;
+    padding-right: 27px;
+    padding-bottom: 11px;
+    padding-left: 10px;
+}
+td div{
+ text-align: center;
+}
+.carinfo{
+    padding-top: 36px;
+}
+.carinfo h2{
+    font-family: 'Roboto Slab', serif;
+
+}
+.carinfo h2 span{
+    color: orangered
+}
+.productdetails{
+    margin-top: 50px;
+}
+.carimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.addtocart{
+    /* margin-left: 65px; */
+    margin-top: 20px;
+    text-align: center;
+}
+.mainrowone{
+    /* margin-top: 57px !important; */
+    padding-bottom: 15px !important;
+    margin-top: 5.5rem!important;
+}
+.carname{
+    font-family: 'Roboto Slab', serif;
+    /* font-size: 35px; */
+    padding-top: 0px;
+    padding-bottom: 2px;
+    border-radius: 19px;
+    background: #fdeff6;
+}
+td h4{
+    margin: 0px;
+    text-align: center;
+}
+.description{
+    margin-top: 16px;
+}
+.description h3{
+    color: red;
+    font-family: 'Roboto Slab', serif;
+}
+.description p{
+    background: #f1e9e9;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    font-weight: bold;
+    border-radius: 8px;
+}

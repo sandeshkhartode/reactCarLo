@@ -1,0 +1,31 @@
+.backgroundimg{
+    background-image: url(https://imgd.aeplcdn.com/0x0/cw/static/about-us/about-us-banner-d.jpg);
+    background-color: #239ed1;
+    background-position: center center;
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+}
+.logo{
+    font-size: 44px;
+    color: #24272c;
+}
+.column{
+    display: flex;
+}
+.column .title{
+    font-size: 22px;
+    padding-top: 7px;
+    margin-left: 9px;
+    line-height: 34px;
+    color: #e92626;
+}
+.column p{
+    font-size: 15px;
+    color: rgba(36,39,44,.5);
+    padding-left: 10px;
+}
+.banner{
+    margin-top: 18px;
+    margin-bottom: 5px;   
+}

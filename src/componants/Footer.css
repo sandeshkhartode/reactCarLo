@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+html{
+    height: 100vh;
+}
+p{
+    margin: 0;
+}
+.footer{
+    background-color: #0e3a50;
+    color: white;
+    margin-bottom: -24px;
+    padding-bottom: 0px;
+    margin-top: auto;
+    /* position: fixed; */
+    /* left: 0;
+    bottom: 0; */
+    width: 100vw;
+
+}
+.footerdiv{
+    text-align: center;
+    font-family: auto;
+    font-size: 17px;
+    /* background: rgb(69, 71, 69); */
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.id a{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+.footerdiv p{
+    margin: 0;
+    padding: 4px;
+    font-family: auto;
+}
+.connect{
+    text-align: right;
+}

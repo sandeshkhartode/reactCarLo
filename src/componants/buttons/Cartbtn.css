@@ -1,0 +1,24 @@
+.carticon .icon{
+    /* width: 150px !important; */
+    font-size: 30px !important;
+    color: yellow;
+    /* margin-top: -15px; */
+}
+.cart{
+    margin-top: -14px;
+}
+.cart a{
+    /* width: 50px !important; */
+    /* font-size: 30px !important; */
+}
+#carticon{
+    font-size: 40px !important;
+    color: #fbfb50;
+}
+.icondiv{
+    margin: 0;
+    padding: 0;
+}
+#length{
+    color: #fbfb50;
+}

@@ -1,0 +1,20 @@
+.maincart{
+    margin-top: 22px;
+}
+#cart{
+    padding-left: 0;
+    padding-right: 0;
+}
+#cardbody{
+    background: rgb(237, 222, 222);
+    border-radius: 9px;
+    /* padding-top: 40px; */
+}
+.cartimg{
+    width: 250px;
+    height: 260px;
+}
+.info{
+    padding: 0 0 0 3px;
+}
+

@@ -1,0 +1,21 @@
+.totalname{
+    text-align: right;
+}
+.totalprice{
+    padding-left: 11px;
+}
+#totalcol1{
+    text-align: right;
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+}
+.totalcol2{
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+.style{
+    font-family: 'Roboto Slab', serif;
+}
+.payment{
+    padding-top: 30px;
+}
